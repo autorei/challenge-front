@@ -27,7 +27,7 @@ A única obrigação é que utilize algum sistema de versionamento para que poss
 
 # Prazos
 
-Você terá *10 dias* para a realização do desafio.
+Você terá **10 dias** para a realização do desafio.
 
 
 # Notas
