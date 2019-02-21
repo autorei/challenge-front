@@ -161,6 +161,10 @@ Pode ser utilizado as tecnologias e ferramentas que quiser para o desafio - não
 
 A única obrigação é que utilize algum sistema de versionamento para que possamos revisar os commits de forma cronológica.
 
+# Prazos
+
+Você terá *10 dias* para a realização do desafio.
+
 # Notas
 
 - Os dados do sistema podem ser mockados, não é necessário desenvolver o backend para o desafio
@@ -169,4 +173,5 @@ A única obrigação é que utilize algum sistema de versionamento para que poss
 
 # Dúvidas
 
-Entre em contato com <dev@canaldapeca.com.br> e coloque o nome do teste no assunto do email.
+Sinta-se a vontade pra entrar em contato em <dev@canaldapeca.com.br>. 
+Por favor coloque o nome do teste como assunto do email.
