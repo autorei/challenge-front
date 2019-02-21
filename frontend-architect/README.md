@@ -173,5 +173,6 @@ Você terá **10 dias** para a realização do desafio.
 
 # Dúvidas
 
-Sinta-se a vontade pra entrar em contato em <dev@canaldapeca.com.br>. 
+Sinta-se a vontade pra entrar em contato em <dev@canaldapeca.com.br>.
+
 Por favor coloque o nome do teste como assunto do email.
