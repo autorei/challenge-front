@@ -28,7 +28,7 @@ Você pode consultar a API pública que quiser ou então utilizar um JSON mockad
 - Outras:  [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
 
 ### Exemplo de listagem de carros mockado
-
+```json
     [
       {
           "Name":"chevrolet chevelle malibu",
@@ -152,7 +152,7 @@ Você pode consultar a API pública que quiser ou então utilizar um JSON mockad
           "Origin":"Europe"
        }
     ]
-
+```
 Exemplo completo: [https://github.com/vega/vega/blob/master/docs/data/cars.json](https://github.com/vega/vega/blob/master/docs/data/cars.json)
 
 # Ferramentas
