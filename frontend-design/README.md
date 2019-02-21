@@ -29,3 +29,7 @@ A única obrigação é que utilize algum sistema de versionamento para que poss
 
 - Qualidade final é **essencial**. Desenvolva algo que iria para produção.
 - Cumprindo o objetivo principal, você esta livre para criar e adicionar features que integrem bem o layout
+
+# Dúvidas
+
+Entre em contato com <dev@canaldapeca.com.br> e coloque o nome do teste no assunto do email.
