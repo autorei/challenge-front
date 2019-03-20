@@ -23,6 +23,7 @@ Você pode consultar a API pública que quiser ou então utilizar um JSON mockad
 
 ### APIs
 
+- Star Wars API: [https://swapi.co](https://swapi.co/)
 - Marvel API: [https://developer.marvel.com](https://developer.marvel.com/)
 - Spotify WEB API: [https://developer.spotify.com/documentation/web-api](https://developer.spotify.com/documentation/web-api)
 - Outras:  [https://github.com/toddmotto/public-apis](https://github.com/toddmotto/public-apis)
